@@ -1,4 +1,8 @@
-CREATE OR REPLACE VIEW 
+-- Project: Hospital Management Analytics
+-- Platform: Google BigQuery
+-- Author: Israel Favour Joseph    
+-- -------------------------------------------------------------------------------------
+    CREATE OR REPLACE VIEW 
 `hospital-management-487322.hospital_data.hospital_analytical_view` AS
 
 SELECT
